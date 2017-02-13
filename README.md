@@ -7,14 +7,14 @@ Create the project in GitHub WebSite
 Specifically, we are tryhing to fix some bugs related to that.
 Let's continue writing here until we have something worth committing.
 
+## Something important
+
+## Conclusion
+
 ## Introduction
 Some intro! Some Introl!Some intro! Some Introl!Some intro! Some Introl!Some intro! Some Introl!Some intro! Some Introl!Some intro! Some Introl!Some intro! Some Introl!Some intro! Some Introl!Some intro! Some Introl!
 
 
 Some intro! Some Introl!Some intro! Some Introl!Some intro! Some Introl!Some intro! Some Introl!Some intro! Some Introl!Some intro! Some Introl!Some intro! Some Introl!Some intro! Some Introl!Some intro! Some Introl!Some intro! Some Introl!Some intro! Some Introl!Some intro! Some Introl!
-
-## Something important
-
-## Conclusion
 
 ## How you can contribute
